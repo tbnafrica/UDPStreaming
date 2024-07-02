@@ -25,7 +25,7 @@ Copyright (c) 2021, Samsung Electronics Co., Ltd
 */
 
 var Player = webapis.avplay;
-var url = "udp://234.0.0.3:8000"; 
+var url = "udp://238.0.0.3:8000"; 
 
 
 var listener = {
